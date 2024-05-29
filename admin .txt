@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Document</title>
+    <title>login page</title>
 </head>
 <body>
     <div align="center"><header><h1><marque >Admin login page</marque></h1></header></div>
